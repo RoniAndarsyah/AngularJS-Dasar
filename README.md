@@ -1,4 +1,4 @@
-Belajar AngularJS
+Belajar AngularJS Dasar Banget Pokoknya
 ====
 ----
 ![](img/angularjs.png)
